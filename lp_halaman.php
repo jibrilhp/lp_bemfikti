@@ -362,7 +362,7 @@
 					
 					echo '<div class="col-md-4 col-sm-6 col-xs-12 mix apps">
                         <div class="item">
-                            <a href="'.$jadi.'" class="portfolio-popup" title="'.$pecah[1]. '">
+                            <a href=\''.$jadi.'\' class="portfolio-popup" title="'.$pecah[1]. '">
                                 <img src="'. $jadi . ' " alt="BEM FIKTI">
                             </a>
                         </div>
@@ -557,25 +557,6 @@
     
     
     
-    <!-- Call to Action Start -->
-    <section class="call-to-action bg-cover section-space-padding text-center">
-       <div class="container">
-         <div class="row">
-           <div class="col-md-8">
-             <h2>Isi apa ya apakah foto pengurus satu sama halaman atau gimana ya?</h2>
-             </div>
-             
-            <div class="col-md-4">
-             <div class="text-center">
-               <a class="button button-style button-style-color-2 smoth-scroll" href="#contact">Contact Me</a>
-            </div>
-            
-            </div>    
-          </div>
-         </div>
-       </section>
-       <!-- Call to Action End -->
-    
        
      <!--mulai dulu -->  
      <section id='team' class='section team-section' >
@@ -583,7 +564,7 @@
 				<div class='row' >			
 					<div class='col-md-4' >		
 						<div class='col-section-header' >
-							<h2>Badan Pengurus Harian~</h2>
+							<h2>Pengurus BEM FIKTI</h2>
 								<p>
 									1 2 3 4 ~
 								</p>	
@@ -678,277 +659,26 @@
 				</div>
 				
 			</section>
-			
-			<!-- mulai lagi-->
-			<section id='team' class='section team-section' >
-				
-				<div class='container' >
-					
-					
-					<div class='row' >
-						
-						
-						<div class='col-md-4' >
-							
-							<div class='col-section-header' >
-								
-								<h2>Departemen Akademik~</h2>
-								
-								<p>
-									No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque.
-								</p>
-								
-								<a href='#' class='btn-minimal' >
-									Join Our Team
-								</a>
-								
-							</div>
-							
-						</div>
-						
-						<div class='col-md-8' >
-							<div class='team-persons' >
-								
-								<div class='row' >
-									
-									<div class='col-md-4' >
-										<div class='team-member' >
-											
-											<img src='images/pengurus_bemfikti/Arbha Pradana.jpg' alt>
-											
-											<div class='overlay' >
-												<div class='v-align' >
-													<div class='inner' >
-														
-														<h4>Arbha</h4>
-														<p>Web~</p>
-														
-														<ul class='team-social' >
-															<li>
-																<a href='#' >
-																	<i class='ion-social-facebook' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-googleplus' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-twitter' ></i>
-																</a>
-															</li>
-														</ul>
-														
-													</div>
-												</div>
-											</div>
-											
-										</div>
-									</div>
-									
-									<div class='col-md-4' >
-										<div class='team-member' >
-											
-											<img src='images/pengurus_bemfikti/Rizky Permana Putra.jpg' alt>
-											
-											<div class='overlay' >
-												<div class='v-align' >
-													<div class='inner' >
-														
-														<h4>Rizky Permana</h4>
-														<p>Kipe Corp</p>
-														
-														<ul class='team-social' >
-															<li>
-																<a href='#' >
-																	<i class='ion-social-facebook' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-googleplus' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-twitter' ></i>
-																</a>
-															</li>
-														</ul>
-														
-													</div>
-												</div>
-											</div>
-											
-										</div>
-									</div>
-									
-									<div class='col-md-4' >
-										<div class='team-member' >
-											
-											<img src='images/pengurus_bemfikti/Pas poto_170902_0011.jpg' alt>
-											
-											<div class='overlay' >
-												<div class='v-align' >
-													<div class='inner' >
-														
-														<h4>Jibril Hartri</h4>
-														<p>Not a hacker</p>
-														
-														<ul class='team-social' >
-															<li>
-																<a href='#' >
-																	<i class='ion-social-facebook' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-googleplus' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-twitter' ></i>
-																</a>
-															</li>
-														</ul>
-														
-													</div>
-												</div>
-											</div>
-											
-										</div>
-									</div>
-									
-								</div>
-								
-								<div class='row' >
-									
-									<div class='col-md-4' >
-										<div class='team-member' >
-											
-											<img src='img/people4.jpg' alt>
-											
-											<div class='overlay' >
-												<div class='v-align' >
-													<div class='inner' >
-														
-														<h4>Jake Doe</h4>
-														<p>Founder & CEO</p>
-														
-														<ul class='team-social' >
-															<li>
-																<a href='#' >
-																	<i class='ion-social-facebook' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-googleplus' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-twitter' ></i>
-																</a>
-															</li>
-														</ul>
-														
-													</div>
-												</div>
-											</div>
-											
-										</div>
-									</div>
-									
-									<div class='col-md-4' >
-										<div class='team-member' >
-											
-											<img src='img/people5.jpg' alt>
-											
-											<div class='overlay' >
-												<div class='v-align' >
-													<div class='inner' >
-														
-														<h4>Jake Doe</h4>
-														<p>Founder & CEO</p>
-														
-														<ul class='team-social' >
-															<li>
-																<a href='#' >
-																	<i class='ion-social-facebook' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-googleplus' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-twitter' ></i>
-																</a>
-															</li>
-														</ul>
-														
-													</div>
-												</div>
-											</div>
-											
-										</div>
-									</div>
-									
-									<div class='col-md-4' >
-										<div class='team-member' >
-											
-											<img src='img/people6.jpg' alt>
-											
-											<div class='overlay' >
-												<div class='v-align' >
-													<div class='inner' >
-														
-														<h4>Jake Doe</h4>
-														<p>Founder & CEO</p>
-														
-														<ul class='team-social' >
-															<li>
-																<a href='#' >
-																	<i class='ion-social-facebook' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-googleplus' ></i>
-																</a>
-															</li>
-															<li>
-																<a href='#' >
-																	<i class='ion-social-twitter' ></i>
-																</a>
-															</li>
-														</ul>
-														
-													</div>
-												</div>
-											</div>
-											
-										</div>
-									</div>
-									
-								</div>
-								
-							</div>
-						</div>
-						
-					</div>
-					
-					
-				</div>
-				
-			</section>
-       
+	
+    <!-- Call to Action Start -->
+    <section class="call-to-action bg-cover section-space-padding text-center">
+       <div class="container">
+         <div class="row">
+           <div class="col-md-8">
+             <h2>Mengenal lebih lanjut Pengurus BEM FIKTI</h2>
+             </div>
+             
+            <div class="col-md-4">
+             <div class="text-center">
+               <a class="button button-style button-style-color-2 smoth-scroll" href="kenal/">Lebih Lanjut >></a>
+            </div>
+            
+            </div>    
+          </div>
+         </div>
+       </section>
+       <!-- Call to Action End -->
+    	
         
         
         
@@ -977,7 +707,7 @@ Ged.4 lt. 3, Kampus E, Universitas Gunadarma Jl. Akses Kelapa Dua Kelapa Dua, Ci
 
 Kontak <br>
 Email: info@fikti.bem.gunadarma.ac.id<br>
-Phone: +628 1289 2044 00</p>
+Phone: +628 1288 1448 53 </p>
 <br>
 <p>BEM FIKTI UG <?php echo (int)date('Y'); ?> - Biro Pengembangan Teknologi Informasi </p>   
 			 </div>
