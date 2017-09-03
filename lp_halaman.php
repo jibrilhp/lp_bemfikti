@@ -129,6 +129,7 @@
              <div class="col-md-6">
                 <div class="about-me-text pattern-bg margin-top-50 margin-bottom-50">
                   <div class="text-center">
+                      <p>Video BEM FIKTI~</p>
                     <a class="button button-style button-style-dark button-style-color-2" data-toggle="modal" data-target="#subscribemodal" href="#">Subscribe</a>
                   </div>
                </div>
@@ -185,8 +186,8 @@
 					</div>
 					<div class="experience-content experience-color-blue">
 						<h4>Kreatif</h4>
-                        <h6>Lorem burem</h6>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eleifend risus sed feugiat faucibus.</p>
+                        <h6>Budaya Kerja : Spiritual</h6>
+						<p>Spiritual merupakan sifat kejiwaan yang berhubungan dengan batin dan rohani. Saat menjalankan tugas dalam tahap perencanaan, pelaksanaan dan evaluasi kegiatan, organisator harus mengutamakan nilai-nilai rohani sesuai kepercayaan yang dianut. Dengan begitu, diharapkan dapat melakukan tugas dengan hati dan nurani yang ikhlas serta menjadi pribadi organisator yang selalu bersyukur bahwa segala kesuksesan yang diraih adalah andil dari Tuhan YME.</p>
 					</div>
 				 </div>
 				
@@ -197,8 +198,8 @@
 					</div>
 					<div class="experience-content experience-color-blue">
 						<h4>Solutif</h4>
-                        <h6>Lorem burem</h6>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eleifend risus sed feugiat faucibus.</p>
+                        <h6>Budaya Kerja : Jujur</h6>
+						<p>Jujur adalah karakter yang harus dimiliki oleh organisator. Dalam melaksanakan tugas, organisator diberikan amanah yang besar untuk menyampaikan sesuatu apa adanya kepada mahasiswa. Selain itu dapat menjadi pondasi masa depan bangsa yakni senantiasa menanamkan jiwa kejujuran dan integritas tinggi dalam diri seorang organisator.</p>
 					</div>
 				 </div>
 				
@@ -215,8 +216,8 @@
 					</div>
 					<div class="experience-content">
 						<h4>Bermanfaat</h4>
-                        <h6>{apa itu}</h6>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eleifend risus sed feugiat faucibus.</p>
+                        <h6>Budaya Kerja : Kreatif</h6>
+						<p>Dalam merencanakan sesuatu yang bertujuan menebarkan kebermanfaatan kepada mahasiswa dan masyarakat luas, organisator dituntut kreatif dalam melakukan perencanaan dan pelaksanaan kegiatan, sehingga sesuatu yang dipersembahkan BEM FIKTI UG senantiasa dapat mengikuti perkembangan zaman dan dapat diterima secara luas serta memiliki respon positif dari seluruh kalangan.</p>
 					</div>
 				 </div>
 				
@@ -226,8 +227,9 @@
 					</div>
 					<div class="experience-content">
 						<h4>Professional</h4>
-                        <h6>Lorem burem</h6>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eleifend risus sed feugiat faucibus.</p>
+                        <h6>Budaya Kerja : Bermanfaat</h6>
+						<p>Memastikan bahwa segala andil, kontribusi dan perbuatan yang dilakukan oleh organisator memberikan dampak positif serta bermanfaat bagi mahasiswa FIKTI UG dan masyarakat luas. Dengan begitu, manfaat yang dirasakan mahasiswa FIKTI UG bisa ditularkan kembali kepada orang lain. Karena segala sesuatu yang menghasilkan manfaat akan senantiasa terus mengalir kepada orang lain dan tidak akan pernah terputus manfaatnya.
+</p>
 					</div>
 				 </div>
 				
@@ -325,111 +327,9 @@
        <!-- Call to Action End -->
     
     
-
-       
-      <!-- Skills Modal Start -->
-      <div class="modal fade padding-top-70" id="skillmodal" role="dialog">
-        <div class="modal-dialog">
-    
-      
-      <div class="modal-content pattern-bg">
-        <div class="modal-body">
-           <div class="row">
-                <div class="col-sm-12">
-                    <div class="section-title margin-top-30">
-                      <button type="button" class="btn pull-right" data-dismiss="modal"><i class="fa fa-close"></i></button>
-                        <h2>My Skills.</h2>
-                         <div class="divider dark">
-						   <i class="icon-energy"></i>
-						  </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-                    </div>
-                </div>
-            </div>
-            
-          <div class="row">
-           <div class="col-sm-offset-2 col-xs-offset-0 col-md-8 col-sm-8">
-          
-            <div class="my-skill margin-bottom-50">
-                    <strong>Graphic Design</strong>
-                       <span class="pull-right">80%</span>
-                            <div class="progress">
-                                 <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-                                </div>
-                              </div>
-
-                     <strong>Website Design</strong>
-                         <span class="pull-right">99%</span>
-                             <div class="progress">
-                                  <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100" style="width: 99%;">
-                                </div>
-                              </div>
-
-                      <strong>HTML5/CSS3</strong>
-                         <span class="pull-right">85%</span>
-                             <div class="progress">
-                                  <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
-                              </div>
-                           </div>
-                          
-                       <strong>Javascript</strong>
-                         <span class="pull-right">90%</span>
-                             <div class="progress">
-                                  <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-                              </div>
-                           </div>
-                        </div>
-          
-                   </div>
-               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- Skills Modal End -->
       
       
       
-      <!-- Subscribe Modal Start -->
-      <div class="modal fade subscribe padding-top-120" id="subscribemodal" role="dialog">
-        <div class="modal-dialog">
-    
-      
-      <div class="modal-content">
-        <div class="modal-body">
-           <div class="row">
-                <div class="col-sm-12">
-                    <div class="section-title margin-top-30">
-                      <button type="button" class="btn pull-right" data-dismiss="modal"><i class="fa fa-close"></i></button>
-                        <h2>Subscribe.</h2>
-                         <div class="divider dark">
-						   <i class="icon-envelope-letter"></i>
-						  </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-                    </div>
-                </div>
-            </div>
-            
-          <div class="row">
-           <div class="col-sm-offset-2 col-xs-offset-0 col-md-8 col-sm-8">
-          
-            <div class="margin-bottom-50">
-                    <form id="mc-form" method="post" action="http://uipasta.us14.list-manage.com/subscribe/post?u=854825d502cdc101233c08a21&amp;id=86e84d44b7">
-								
-						  <div class="subscribe-form">
-							 <input id="mc-email" type="email" placeholder="Email Address" class="text-input">
-							  <button class="submit-btn" type="submit">Submit</button>
-								</div>
-								<label for="mc-email" class="mc-label"></label>
-							  </form>
-                           </div>
-                        </div>
-                     </div>
-                 </div>
-             </div>
-          </div>
-       </div>
-       <!-- Subscribe Modal End -->
        <!-- About End -->
     
 
@@ -553,7 +453,7 @@
             <div class="col-md-4 col-sm-6">
 				<div class="services-detail">
 					<i class="icon-screen-smartphone color-1"></i>
-					<h3>Mobile Design</h3>
+					<h3>Bagian Kesekretariatan</h3>
 					<hr>
 				</div>
 			</div>
@@ -561,7 +461,7 @@
 			<div class="col-md-4 col-sm-6">
 				<div class="services-detail">
 					<i class="icon-screen-tablet color-2"></i>
-					<h3>Tablet Design</h3>
+					<h3>Bagian Keuangan</h3>
 					<hr>
 				</div>
 			</div>
@@ -569,7 +469,7 @@
 			<div class="col-md-4 col-sm-6">
 				<div class="services-detail">
 					<i class="fa fa-code color-3"></i>
-					<h3>Clean Code</h3>
+					<h3>BIRO SUMBER DAYA MANUSIA </h3>
 					<hr>
 				</div>
 			</div>
@@ -577,7 +477,7 @@
             <div class="col-md-4 col-sm-6">
 				<div class="services-detail">
 					<i class="icon-support color-4"></i>
-					<h3>Full Support</h3>
+					<h3>BIRO PENELITIAN DAN PENGEMBANGAN </h3>
 					<hr>
 				</div>
 			</div>
@@ -585,7 +485,7 @@
 			<div class="col-md-4 col-sm-6">
 				<div class="services-detail">
 					<i class="fa fa-html5 color-5"></i>
-					<h3>HTML5 Design</h3>
+					<h3>BIRO PENGEMBANGAN TEKNOLOGI INFORMASI</h3>
 					<hr>
 				</div>
 			</div>
@@ -593,10 +493,62 @@
 			<div class="col-md-4 col-sm-6">
 				<div class="services-detail">
 					<i class="icon-bulb color-6"></i>
-					<h3>CSS3 Design</h3>
+					<h3>BIRO HUBUNGAN MASYARAKAT </h3>
 					<hr>
 				</div>
 			</div>
+            
+            <div class="col-md-4 col-sm-6">
+				<div class="services-detail">
+					<i class="icon-bulb color-6"></i>
+					<h3>BIRO MEDIA</h3>
+					<hr>
+				</div>
+			</div>
+            
+            <div class="col-md-4 col-sm-6">
+				<div class="services-detail">
+					<i class="icon-bulb color-6"></i>
+					<h3>DEPARTEMEN AKADEMIK</h3>
+					<hr>
+				</div>
+			</div>
+            
+            <div class="col-md-4 col-sm-6">
+				<div class="services-detail">
+					<i class="icon-bulb color-6"></i>
+					<h3>DEPARTEMEN KESEJAHTERAAN MAHASISWA</h3>
+					<hr>
+				</div>
+			</div>
+            
+            <div class="col-md-4 col-sm-6">
+				<div class="services-detail">
+					<i class="icon-bulb color-6"></i>
+					<h3>DEPARTEMEN PENGABDIAN MASYARAKAT</h3>
+					<hr>
+				</div>
+			</div>
+            
+            <div class="col-md-4 col-sm-6">
+				<div class="services-detail">
+					<i class="icon-bulb color-6"></i>
+					<h3>DEPARTEMEN SENI BUDAYA</h3>
+					<hr>
+				</div>
+			</div>
+            
+            <div class="col-md-4 col-sm-6">
+				<div class="services-detail">
+					<i class="icon-bulb color-6"></i>
+					<h3>DEPARTEMEN OLAHRAGA</h3>
+					<hr>
+				</div>
+			</div>
+            
+            
+            
+            
             
             </div>
         </div>
@@ -1027,7 +979,7 @@ Kontak <br>
 Email: info@fikti.bem.gunadarma.ac.id<br>
 Phone: +628 1289 2044 00</p>
 <br>
-<p><?php echo (int)date('Y'); ?> - Biro Pengembangan Teknologi Informasi</p>   
+<p>BEM FIKTI UG <?php echo (int)date('Y'); ?> - Biro Pengembangan Teknologi Informasi </p>   
 			 </div>
                 
              </div>
